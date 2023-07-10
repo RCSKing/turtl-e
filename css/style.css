@@ -70,6 +70,13 @@ color: #ffffff;
     flex-direction: row;
 }
 
+.espaçoantecorpo1{
+    width: 5%;
+    height: 500px;
+    background: transparent;
+    color: transparent;
+}
+
 .portaimg1{
     width: 40%;
     height: 500px;
@@ -89,7 +96,7 @@ color: #ffffff;
 }
 
 .spaceepi{
-    width: 60%;
+    width: 55%;
     height: 500px;
     background: transparent;
     display: flex;
@@ -101,9 +108,8 @@ color: #ffffff;
     width: 70%;
     height: 240px;
     color: #122C4C ;
-    font-size: 80px;
+    font-size: 75px;
     justify-content: center;
-
 }
 
 .corpo2{
@@ -128,7 +134,7 @@ color: #ffffff;
     width: 90%;
     height: 80%;
     text-align: justify;
-    font-size: 280%;
+    font-size: 230%;
     color: #ffffff;
     justify-content: center;
 }
@@ -159,7 +165,7 @@ color: #ffffff;
 
 .conteudomvv{
     width: 20%;
-    height: 550px;
+    height: 500px;
     background: transparent;
     border-radius: 5%;
     display: flex;
@@ -171,7 +177,7 @@ color: #ffffff;
 
 .conteudomvvmeio{
     width: 20%;
-    height: 400px;
+    height: 420px;
     background: transparent;
     border-radius: 5%;
     border-style: dashed;
@@ -179,7 +185,7 @@ color: #ffffff;
 }
 
 .imgmvv{
-    height: 200px;
+    height: 210px;
     width: 100%;
     background: transparent;
     display: flex;
@@ -201,7 +207,7 @@ color: #ffffff;
     width: 80%;
     color: #202020;
     text-align: center;
-    font-size: 135%;
+    font-size: 110%;
 }
 
 .basetxtmvv2{
