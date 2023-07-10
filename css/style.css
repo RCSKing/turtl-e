@@ -64,7 +64,7 @@ color: #ffffff;
 
 .corpo1{
     width: 100%;
-    height: 400px;
+    height: 500px;
     background-color: #e1e1e1;
     display: flex;
     flex-direction: row;
@@ -72,8 +72,8 @@ color: #ffffff;
 
 .portaimg1{
     width: 40%;
-    height: 400px;
-    background: transparent;
+    height: 500px;
+    background-color: #ff0000;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -90,7 +90,7 @@ color: #ffffff;
 
 .spaceepi{
     width: 60%;
-    height: 400px;
+    height: 500px;
     background: transparent;
     display: flex;
     align-items: center;
@@ -108,15 +108,16 @@ color: #ffffff;
 
 .corpo2{
     width: 100%;
-    height: 400px;
+    height: 500px;
     background-color: #202020;
     display: flex;
     flex-direction: row;
+    align-items: center;
 }
 
 .caixatxtqs{
-    width: 60%;
-    height: 400px;
+    width: 80%;
+    height: 500px;
     background: transparent;
     display: flex;
     align-items: center;
@@ -126,7 +127,8 @@ color: #ffffff;
 .txtqs{
     width: 90%;
     height: 80%;
-    font-size: 30px;
+    text-align: justify;
+    font-size: 280%;
     color: #ffffff;
     justify-content: center;
 }
@@ -138,10 +140,75 @@ color: #ffffff;
     color: #e1e1e1;
 }
 
+.reta{
+    width: 2px;
+    height: 450px;
+    background-color: #ffffff;
+    color: transparent;
+}
+
 .corpo3{
     width: 100%;
-    height: 500px;
+    height: 600px;
     background-color: #e1e1e1;
     display: flex;
     flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.conteudomvv{
+    width: 20%;
+    height: 550px;
+    background: transparent;
+    border-radius: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-style: dashed;
+    border-color: #202020;
+}
+
+.conteudomvvmeio{
+    width: 20%;
+    height: 400px;
+    background: transparent;
+    border-radius: 5%;
+    border-style: dashed;
+    border-color: #202020;
+}
+
+.imgmvv{
+    height: 200px;
+    width: 100%;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.basetxtmvv13{
+    height: 350px;
+    width: 100%;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.txtmvv{
+    height: 80%;
+    width: 80%;
+    color: #202020;
+    text-align: center;
+    font-size: 135%;
+}
+
+.basetxtmvv2{
+    height: 200px;
+    width: 100%;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
