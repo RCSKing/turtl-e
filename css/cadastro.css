@@ -159,10 +159,6 @@ nav li a:hover{
   
   }
   
-  button:hover{
-    background-color: #202020;
-    color: white;
-  }
   
   .justify-center{
     display: flex;
@@ -170,13 +166,13 @@ nav li a:hover{
   }
   
   p{
-    color: #202020;
+    color: #000000;
     font-size: 14pt;
     text-align: center;
   }
   
   a{
-    color: blueviolet;
+    color: rgb(0, 0, 0);
     font-weight: 14pt;
     text-decoration: none;
 }
@@ -186,4 +182,9 @@ nav li a:hover{
   height: 30px;
   background: transparent;
   color: transparent;
+}
+
+.justify-center :hover{
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
 }

@@ -176,7 +176,7 @@ p{
 }
   
 a{
-    color: blueviolet;
+    color: #000000;
     font-weight: 14pt;
     text-decoration: none;
 }
@@ -186,4 +186,14 @@ a{
     height: 30px;
     background: transparent;
     color: transparent;
+  }
+
+  .justify-center :hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+  }
+
+  .letraentrar{
+    color: violet;
+    text-decoration:underline;
   }

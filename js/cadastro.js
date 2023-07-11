@@ -109,3 +109,4 @@ btnConfirm.addEventListener('click', ()=>{
     inputConfirmSenha.setAttribute('type', 'password')
 }
 })
+
